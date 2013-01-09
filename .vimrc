@@ -25,3 +25,4 @@ nnoremap <C-up> :resize -5<cr>
 nnoremap <C-right> :vertical resize +5<cr>
 
 
+:imap jj <Esc>
